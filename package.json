@@ -1,0 +1,12 @@
+{
+  "name": "com.yourname.mylibrary",
+  "version": "1.0.0",
+  "displayName": "My Library",
+  "description": "A description of my library.",
+  "unity": "2020.3",
+  "author": {
+    "name": "Your Name",
+    "email": "your.email@example.com",
+    "url": "http://yourwebsite.com"
+  }
+}
