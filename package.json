@@ -1,6 +1,6 @@
 {
   "name": "com.yourname.mylibrary",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "My Library",
   "description": "A description of my library.",
   "unity": "2020.3",
